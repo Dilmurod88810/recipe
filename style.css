@@ -1,0 +1,33 @@
+img{
+    width: 1200px;
+}
+
+
+#x {
+    background-color: coral;
+    width: 400px;
+}
+h2 {
+    color: black;
+}
+ h3 {
+     color: crimson;
+ }
+ h4 {
+     color: crimson;
+ }
+ h5 {
+     color: crimson;
+ }
+ table{
+     width: 100%;
+     border-collapse: collapse;
+ }
+  .a{
+     color: darkkhaki;
+     font-weight: 700; 
+     } 
+
+
+    
+    
